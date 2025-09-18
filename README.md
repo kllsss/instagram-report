@@ -19,6 +19,7 @@
 💥 **Blazing Fast** – Execute reports instantly  
 💥 **Reliable Power** – Handles scale with zero downtime  
 💥 **Simple Commands** – easy usage
+
 💥 **Exclusive Access** –  No download required.  
 
 > ⚠️ *This is a private tool.*
