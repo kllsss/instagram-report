@@ -64,7 +64,7 @@
 
 ## Latest Update
 
-![Last Updated](https://img.shields.io/badge/last-updated-2025-09-18-20:34:42 20:32:26
+2025-09-18-20:34:42 20:32:26
 
 
 [![Join Telegram](https://img.shields.io/badge/Join-Our%20Telegram-blue?logo=telegram&logoColor=white)](https://t.me/YourChannelHere)  
