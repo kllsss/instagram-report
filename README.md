@@ -4,12 +4,11 @@
 ### 🔥 The #1 Premium Mass Reporting Tool for Instagram  
 
 [![Join Telegram](https://img.shields.io/badge/Join-Our%20Telegram-blue?logo=telegram&logoColor=white)](https://t.me/YourChannelHere)  
-[![Access](https://img.shields.io/badge/Access-Paid%20Only-orange)](#)  
 [![Status](https://img.shields.io/badge/Availability-Limited%20Seats-green)](#)  
 
 ---
 
-<img src="https://via.placeholder.com/1200x500.png?text=Instagram+Mass+Report+Pro+Showcase" alt="Preview" />
+<img src="https://cdn.discordapp.com/attachments/786396170876223498/1418326703918551241/banner_1.png?ex=68cdb72d&is=68cc65ad&hm=e9a9073f03d0191e84adeaff3e35b9a9b8890e14270c9e82ac13add6f3f661f0&" alt="Preview" />
 
 </div>
 
@@ -19,24 +18,23 @@
 
 💥 **Blazing Fast** – Execute reports instantly  
 💥 **Reliable Power** – Handles scale with zero downtime  
-💥 **Simple Commands** – No coding, no hassle  
-💥 **Exclusive Access** – Not public, not free. Only via Telegram.  
+💥 **Simple Commands** – easy usage
+💥 **Exclusive Access** –  No download required.  
 
-> ⚠️ *This is a private tool. Access is strictly limited to paid members only.*
+> ⚠️ *This is a private tool.*
 
 ---
 
-## 📸 Preview Highlights  
-
-- 📊 Automated reporting engine  
-- ⚡ Real-time results dashboard  
-- 🔒 Secure paid-only community  
+## 📸 Preview Highlights
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=Dashboard+Preview" alt="Dashboard Preview" />
+  <a href="https://youtu.be/paswNf4lhVk?si=SydyAxdMXfKDy5Lh" target="_blank">
+    <img src="https://img.youtube.com/vi/paswNf4lhVk/maxresdefault.jpg" alt="Instagram Mass Report Pro Preview" width="800"/>
+  </a>
 </p>
 
 ---
+
 
 ## 💎 How to Get Access  
 
