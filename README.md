@@ -59,6 +59,14 @@
 
 🔥 *Limited Seats. Secure Your Access Now.* 🔥  
 
+
+
+
+## Latest Update
+
+![Last Updated](https://img.shields.io/badge/last-updated-unknown-lightgrey)
+
+
 [![Join Telegram](https://img.shields.io/badge/Join-Our%20Telegram-blue?logo=telegram&logoColor=white)](https://t.me/YourChannelHere)  
 
 </div>
