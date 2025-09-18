@@ -64,9 +64,9 @@
 
 ## Latest Update
 
-2025-09-18-20:34:42 20:32:26
+2025-09-18-20:34:42
 
 
-[![Join Telegram](https://img.shields.io/badge/Join-Our%20Telegram-blue?logo=telegram&logoColor=white)](https://t.me/YourChannelHere)  
+[![Join Telegram](https://img.shields.io/badge/Join-Our%20Telegram-blue?logo=telegram&logoColor=white)](https://t.me/bangramx)  
 
 </div>
