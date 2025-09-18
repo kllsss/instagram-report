@@ -33,6 +33,10 @@
   </a>
 </p>
 
+<p align="center">
+🎬 Click the image to watch the demo video
+</p>
+
 ---
 
 
