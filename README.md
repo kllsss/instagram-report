@@ -42,18 +42,14 @@
 
 ## 💎 How to Get Access  
 
-1️⃣ Join our **official Telegram** 👉 [Click Here](https://t.me/YourChannelHere)  
-2️⃣ Request access from our admin/bot  
-3️⃣ Complete the payment  
-4️⃣ Receive your **exclusive download + license key**  
+1️⃣ Join our **official Telegram** 👉 [Click Here](https://t.me/bangramx)  
+2️⃣ Receive your **exclusive download + license key**  
 
 ---
 
 ## 📬 Contact & Support  
 
-💬 Telegram: [@YourChannelHere](https://t.me/YourChannelHere)  
-📧 Email: support@instamasspro.io  
-
+💬 Telegram: [@Bangram0](https://t.me/bangramx)  
 ---
 
 <div align="center">
