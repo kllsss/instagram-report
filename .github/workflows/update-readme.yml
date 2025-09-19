@@ -16,7 +16,8 @@ jobs:
 
       - name: Update README timestamp
         run: |
-          TODAY=$(date '+%Y-%m-%d-%H:%M:%S')  # replace spaces with dash
+          TODAY=$(date '+%Y-%m-%d-%H:%M:%S')
+          echo "TODAY=$TODAY" >> $GITHUB_ENV
           sed -i "s/last-updated-[^ ]*/last-updated-$TODAY/" README.md
 
       - name: Commit & Push
