@@ -3,7 +3,7 @@
 # 📸 Instagram Mass Report Pro™  
 ### 🔥 The #1 Premium Mass Reporting Tool for Instagram  
 
-[![Join Telegram](https://img.shields.io/badge/Join-Our%20Telegram-blue?logo=telegram&logoColor=white)](https://t.me/YourChannelHere)  
+[![Join Telegram](https://img.shields.io/badge/Join-Our%20Telegram-blue?logo=telegram&logoColor=white)](https://t.me/bangramx)  
 [![Status](https://img.shields.io/badge/Availability-Limited%20Seats-green)](#)  
 
 ---
